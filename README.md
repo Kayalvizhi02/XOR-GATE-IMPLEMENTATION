@@ -1,4 +1,4 @@
-### EX NO : 
+### EX NO : 08
 ### DATE  :
 # <p align="center"> XOR GATE IMPLEMENTATION </p>
 ## Aim:
