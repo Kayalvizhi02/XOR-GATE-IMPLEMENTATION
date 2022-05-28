@@ -18,18 +18,6 @@ The XOR gate stands for the Exclusive-OR gate. This gate is a special type of ga
 4. Train the model with training data.
 5. Now test the model with testing data.
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
 ## Program:
 ```
 Program to implement XOR Logic Gate.
